@@ -1,0 +1,47 @@
+#control{
+    width:400px;
+    height:400px;
+}
+#cor{
+    color: rgb(255, 255, 255);
+
+}
+#corr{
+    color: rgb(255, 255, 255);
+}
+
+body{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+background-image:url("net.jpg") ;
+background-repeat:no-repeat;
+background-size: cover;
+}
+hr{
+    height: 10px;
+    background-color: rgb(255, 0, 0);
+}
+#corrr{
+    color: aliceblue;
+}
+h1,h2{
+    color: rgb(238, 238, 238);
+
+}
+.cobra{ 
+
+            width: 400px;
+            height: 400px;;
+        }
+        .azul{
+            background-color: rgb(255, 0, 149);
+        }  
+        .velozes{ 
+            width: 400px;
+            height: 400px;;
+        }
+        #h1{
+            background-color: rgb(255, 255, 255);
+        }   
+    #h1{
+        background-color: rgb(255, 255, 255);  
+    }
